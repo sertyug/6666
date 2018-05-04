@@ -1,0 +1,14 @@
+@charset "utf-8";
+#box {
+}
+
+#box p {
+	font-size: 13px;
+	line-height: 20px;
+	letter-spacing: 2px;
+}
+#photo {
+	width: 140px;
+	height: 190px;
+	padding:6px;
+}
